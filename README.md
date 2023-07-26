@@ -11,3 +11,7 @@ Find key metrics and factors and show the meaningful relationships between attri
 ![iNeuron  Amazon Sales Data -3](https://github.com/Mcraze/iNeuron-Amazon-Sales-Analysis/assets/84672998/9fa15982-76e6-4c76-beb3-07cb3d92c5fb)
 ![iNeuron  Amazon Sales Data -4](https://github.com/Mcraze/iNeuron-Amazon-Sales-Analysis/assets/84672998/01102a6a-b183-4e2f-a75b-0366c7ef1bfe)
 ![iNeuron  Amazon Sales Data -5](https://github.com/Mcraze/iNeuron-Amazon-Sales-Analysis/assets/84672998/10256a3b-e24a-4cd6-b873-d403c3573730)
+
+### Dashboard Interaction:
+https://github.com/Mcraze/iNeuron-Amazon-Sales-Analysis/assets/84672998/9ed1dfdc-5fef-42f5-851f-1c513b9d71ef
+
